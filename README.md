@@ -1,0 +1,1 @@
+Projek ini dibuat menggunakan bahasa pemorgraman Java JDK versi 17 dan penyimpanan data berbasis SQL sebelum menggunakan atau menjalankan projek ini, harus mengimpor database db02_23si11 terlebih dahulu menggunakan MySQL atau pengelolaan database sejenisnnya
